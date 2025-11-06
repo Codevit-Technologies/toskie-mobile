@@ -1,0 +1,85 @@
+{
+    "material-icon-theme.folders.associations": {
+        "scrabble":"Console",
+        "play_mode":"Console",
+        "domain":"Context",
+        "features": "Environment",
+        "sliding_door": "Jinja",
+        "player_onboard": "Godot",
+        "main_game": "app"
+
+    },
+    "material-icon-theme.files.associations": {
+        "injection_container.dart":"dhall"
+        // "*.dto.ts": "slint",
+        // "*.dto.js": "slint",
+    },
+        	"better-comments.tags": [
+        {
+			"tag": "#",
+			"color": "#9999ff",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": true,
+			"italic": false
+    	},
+		{
+			"tag": "!",
+			"color": "#FF2D00",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": true,
+			"italic": false
+		},
+		{
+			"tag": "?",
+			"color": "#3498DB",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "//",
+			"color": "#474747",
+			"strikethrough": true,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "%",
+			"color": "#FF8C00",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": true,
+			"italic": false
+		},
+		{
+			"tag": "*",
+			"color": "#98C379",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		}
+	],
+    // "git.ignoreLimitWarning": true,
+    // "json.schemas": [
+    //     {
+    //         "fileMatch": [
+    //             "package.json"
+    //         ],
+    //         "url": "https://json.schemastore.org/package"
+    //     }
+    // ],
+    // "[typescript]": {
+    //     "editor.defaultFormatter": "esbenp.prettier-vscode"
+    // }
+}

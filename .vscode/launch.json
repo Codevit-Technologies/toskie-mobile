@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run Dev Flavor",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main/main_dev.dart",
+      "flutterMode": "debug",
+      "args": ["--flavor=dev"]
+    },
+    {
+      "name": "Run Dev Flavor (Release)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main/main_dev.dart",
+      "flutterMode": "release",
+      "args": ["--flavor=dev"]
+    }
+  ]
+}
