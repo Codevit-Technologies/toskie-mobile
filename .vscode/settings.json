@@ -82,4 +82,12 @@
     // "[typescript]": {
     //     "editor.defaultFormatter": "esbenp.prettier-vscode"
     // }
+	"workbench.colorCustomizations": {
+  "statusBar.background": "#0067b6",         // Main status bar color
+  "statusBar.foreground": "#FFFFFF",         // Text color on the status bar
+  "statusBar.noFolderBackground": "#333333", // Color when no folder is open
+  "statusBar.debuggingBackground": "#FF9800", // Color during debugging
+  "statusBar.debuggingForeground": "#000000"
+}
+
 }
